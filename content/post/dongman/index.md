@@ -7,18 +7,23 @@ categories:
   - anime
 draft: false
 ---
+
 ## 樱花动漫
 
 ![樱花动漫](yinghua2.jpg)
 [樱花动漫发布页](https://88dm.fans/)
+
 ---
 ## hanime [^vpn]
 ![hanime](hentai.jpg)
 [hanime](https://hanime1.me/)
+
 ---
+
 ## 狗狗love
-![[gougou.jpg]]
+![gougou.jpg](gougou.jpg)
 [girlgirllove](https://bgm.girigirilove.com/)
+
 ---
 [^vpn]:科学上网
 

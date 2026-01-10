@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/game/index.md",
-                "mode": "source",
-                "source": false
+                "file": "content/post/dongman/index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -196,15 +196,15 @@
   },
   "active": "56da1537e7e36ff0",
   "lastOpenFiles": [
-    "content/post/game/byrutor.jpg",
     "content/post/game/index.md",
+    "content/post/dongman/index.md",
+    "content/post/game/byrutor.jpg",
     "content/post/game/switch520.jpg",
     "archetypes/default.md",
     "assets/img/avatar.png",
     "content/page/archives/index.md",
     "content/page/search/index.md",
     "content/post/deeplearning/index.md",
-    "content/post/dongman/index.md",
     "content/_index.md",
     "content/post/dongman/gougou.jpg",
     "content/categories/tutorials/_index.md",
