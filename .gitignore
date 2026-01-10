@@ -1,12 +1,24 @@
-# Sample .gitignore for Hugo sites
-
+# Hugo Build Output
 public/
 resources/
 .hugo_build.lock
+
+# Theme Dependencies
 themes/*/resources/
 themes/*/public/
 themes/*/node_modules/
-# MacOS
+themes/*/exampleSite/
+themes/*/.git
+
+# System Files
 .DS_Store
-# Windows
 Thumbs.db
+desktop.ini
+
+# Executables
+hugo.exe
+*.exe
+
+# Editor Configs
+.obsidian/
+

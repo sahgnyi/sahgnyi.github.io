@@ -11,14 +11,12 @@
             "id": "56da1537e7e36ff0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/post/dongman/index.md",
-                "mode": "preview",
-                "source": true
+                "file": "assets/img/avatar.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "avatar"
             }
           }
         ]
@@ -194,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56da1537e7e36ff0",
+  "active": "a1fd590b7a38a698",
   "lastOpenFiles": [
-    "content/post/game/index.md",
     "content/post/dongman/index.md",
+    "content/post/game/index.md",
     "content/post/game/byrutor.jpg",
     "content/post/game/switch520.jpg",
     "archetypes/default.md",
