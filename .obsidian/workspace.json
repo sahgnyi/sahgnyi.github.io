@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "b6f8f05bdf7ddde8",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1fd590b7a38a698",
+  "active": "56da1537e7e36ff0",
   "lastOpenFiles": [
     "content/post/yinghua/yinghua2.jpg",
     "content/post/yinghua/yinghua.jpg",

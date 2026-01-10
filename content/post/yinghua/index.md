@@ -1,24 +1,14 @@
-
----
-
+﻿---
 title: "樱花动漫发布页"
-
 description: "这是樱花动漫的发布页"
-
-date: 2026-01-11
-
-image: "yinghua.jpg"  # 这里填你放在同级目录下的封面文件名
-
+date: 2026-01-11T16:00:00+08:00
+image: "yinghua.jpg"
 categories:
-
-    - 动漫         # 必须是我们定好的分类：教程/游戏/动漫/工具
-
+    - anime
+    # 对应显示的中文分类：anime=动漫, games=游戏, tutorials=教程, tools=工具
+draft: false
 ---
-
-  
 
 ## 链接
 
-[樱花动漫](yinghua2.jpg)
-[樱花动漫](https://88dm.fans/)
-
+点击这里访问 [樱花动漫](http://www.yinghuacd.com/)
