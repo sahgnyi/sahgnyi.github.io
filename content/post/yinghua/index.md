@@ -12,4 +12,5 @@ draft: false
 ## 链接
 
 [樱花动漫](yinghua2.jpg)
-[樱花动漫](https://88dm.fans/)
+[樱花动漫发布页](https://88dm.fans/)
+
