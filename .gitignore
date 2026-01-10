@@ -1,0 +1,12 @@
+# Sample .gitignore for Hugo sites
+
+public/
+resources/
+.hugo_build.lock
+themes/*/resources/
+themes/*/public/
+themes/*/node_modules/
+# MacOS
+.DS_Store
+# Windows
+Thumbs.db
