@@ -14,7 +14,7 @@ draft: false
 
 ---
 ## byrutor[^vpn]
-![[byrutor.jpg]]
+![byrutor.jpg](byrutor.jpg)
 
 [byrutor](https://byrutgame.org/)
 ---
