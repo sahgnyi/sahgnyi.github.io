@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/yinghua/index.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "default"
             }
           }
         ]
@@ -196,10 +196,28 @@
   },
   "active": "56da1537e7e36ff0",
   "lastOpenFiles": [
-    "content/post/yinghua/yinghua2.jpg",
-    "content/post/yinghua/index.md",
-    "content/post/yinghua/yinghua.jpg",
+    "assets/img/avatar.png",
+    "content/page/archives/index.md",
+    "content/page/search/index.md",
+    "content/post/deeplearning/index.md",
+    "content/post/dongman/index.md",
+    "content/post/game/index.md",
+    "content/post/game/byrutor.jpg",
+    "content/post/game/switch520.jpg",
     "content/_index.md",
+    "content/post/dongman/gougou.jpg",
+    "content/categories/tutorials/_index.md",
+    "content/categories/tools/_index.md",
+    "content/categories/games/_index.md",
+    "content/categories/anime/_index.md",
+    "content/post/deeplearning",
+    "content/post/dongman/gougoulove.jpg",
+    "content/post/dongman/hentai.jpg",
+    "Pasted image 20260111030257.png",
+    "content/post/game",
+    "content/post/国内盗版游戏站switch520.md",
+    "content/post/dongman/yinghua.jpg",
+    "content/post/dongman/yinghua2.jpg",
     "content/post/test1/avatar.jpg",
     "content/post/test1/index.md",
     "content/post/test1/2026-01-05 01-06-09.mp4",

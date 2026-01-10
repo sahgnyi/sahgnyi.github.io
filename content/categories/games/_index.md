@@ -1,6 +1,6 @@
 ---
 title: "游戏"
-description: "游戏评测、攻略与心得分享"
+description: "游戏资源分享"
 slug: "games"
 image: 
 style:

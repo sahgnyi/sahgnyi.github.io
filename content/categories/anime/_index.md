@@ -1,6 +1,6 @@
 ---
 title: "动漫"
-description: "动漫番剧推荐与深度解析"
+description: "动漫番剧分享"
 slug: "anime"
 image: 
 style:
