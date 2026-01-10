@@ -1,5 +1,5 @@
 ---
-title: switch520 国内盗版游戏站
+title: 盗版游戏站
 description: 收集盗版游戏网站
 date: 2026-01-10T16:00:00+08:00
 image: switch520.jpg
