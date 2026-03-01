@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1222a04f95884d7e",
+        "id": "c586a801a6db4f19",
         "type": "tabs",
         "children": [
           {
-            "id": "56da1537e7e36ff0",
+            "id": "02e3f6e9b98e945f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/avatar.png"
+                "file": "content/post/deeplearning/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "avatar"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -182,48 +184,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "a1fd590b7a38a698",
   "lastOpenFiles": [
+    "layouts/partials/article-list/default.html",
+    "assets/ts/search.tsx",
+    "assets/ts",
+    "layouts/partials/article-list/tile.html",
+    "layouts/partials/article-list/compact.html",
+    "layouts/partials/article-list",
+    "content/post/dongman/gougou.jpg",
+    "content/post/dongman/hentai.jpg",
     "content/post/dongman/index.md",
-    "content/post/game/index.md",
+    "content/post/dongman/yinghua.jpg",
+    "content/post/dongman/yinghua2.jpg",
     "content/post/game/byrutor.jpg",
+    "content/post/game/index.md",
+    "ceshi.md",
+    "content/post/markdyufa/index.md",
     "content/post/game/switch520.jpg",
-    "archetypes/default.md",
-    "assets/img/avatar.png",
-    "content/page/archives/index.md",
-    "content/page/search/index.md",
+    "content/post/markdyufa",
+    "test.md",
     "content/post/deeplearning/index.md",
     "content/_index.md",
-    "content/post/dongman/gougou.jpg",
+    "未命名.base",
+    "content/page/archives/index.md",
+    "assets/img/avatar.png",
+    "archetypes/default.md",
+    "content/page/search/index.md",
     "content/categories/tutorials/_index.md",
     "content/categories/tools/_index.md",
     "content/categories/games/_index.md",
     "content/categories/anime/_index.md",
     "content/post/deeplearning",
     "content/post/dongman/gougoulove.jpg",
-    "content/post/dongman/hentai.jpg",
     "Pasted image 20260111030257.png",
     "content/post/game",
     "content/post/国内盗版游戏站switch520.md",
-    "content/post/dongman/yinghua.jpg",
-    "content/post/dongman/yinghua2.jpg",
     "content/post/test1/avatar.jpg",
     "content/post/test1/index.md",
     "content/post/test1/2026-01-05 01-06-09.mp4",
-    "content/post/test1",
     "content/post/test1 1/index.md",
-    "content/post/test1 1/2026-01-05 01-06-09.mp4",
-    "content/post/test1 1",
     "未命名 1.canvas",
     "未命名.canvas",
     "2026-01-11.md"
