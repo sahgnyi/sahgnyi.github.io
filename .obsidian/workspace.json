@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/deeplearning/index.md",
+                "file": "content/post/markdownyufa/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,8 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1fd590b7a38a698",
+  "active": "02e3f6e9b98e945f",
   "lastOpenFiles": [
+    "content/post/game/index.md",
+    "content/post/game/switch520.jpg",
+    "content/post/markdownyufa/index.md",
+    "content/post/game/byrutor.jpg",
+    "content/post/markdownyufa",
+    "content/post/deeplearning/index.md",
     "layouts/partials/article-list/default.html",
     "assets/ts/search.tsx",
     "assets/ts",
@@ -207,14 +213,10 @@
     "content/post/dongman/index.md",
     "content/post/dongman/yinghua.jpg",
     "content/post/dongman/yinghua2.jpg",
-    "content/post/game/byrutor.jpg",
-    "content/post/game/index.md",
     "ceshi.md",
     "content/post/markdyufa/index.md",
-    "content/post/game/switch520.jpg",
     "content/post/markdyufa",
     "test.md",
-    "content/post/deeplearning/index.md",
     "content/_index.md",
     "未命名.base",
     "content/page/archives/index.md",
@@ -228,11 +230,9 @@
     "content/post/deeplearning",
     "content/post/dongman/gougoulove.jpg",
     "Pasted image 20260111030257.png",
-    "content/post/game",
     "content/post/国内盗版游戏站switch520.md",
     "content/post/test1/avatar.jpg",
     "content/post/test1/index.md",
-    "content/post/test1/2026-01-05 01-06-09.mp4",
     "content/post/test1 1/index.md",
     "未命名 1.canvas",
     "未命名.canvas",
